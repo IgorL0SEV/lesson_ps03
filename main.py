@@ -44,4 +44,5 @@ def word_game():
             print("Спасибо за игру!")
             break
 
-word_game()
+if __name__ == "__main__":
+    word_game()
